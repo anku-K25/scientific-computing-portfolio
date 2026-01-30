@@ -19,6 +19,11 @@ The goal of this collection is to demonstrate the algorithmic understanding of c
 - **Simpson's 1/3 Rule:** Deterministic quadrature rule for approximating definite integrals.
 - **Monte Carlo Integration:** Probabilistic approach to integration, demonstrating the application of random sampling in numerical analysis.
 
+- ### 4. Low-Level Optimization (`matrix_ops.c`)
+- **Language:** C
+- **Concept:** Manual memory management and pointer arithmetic for Matrix Multiplication.
+- **Why C?** While Python is excellent for prototyping, C is used here to demonstrate an understanding of the underlying memory operations required for high-performance numerical computing.
+
 ## Technical Context
 - **Language:** Python 3.x
 - **Libraries:** `numpy` (for vectorized operations), `matplotlib` (for visualization).
